@@ -33,7 +33,7 @@ $ npm run lint
 
 step 1 - this font stylesheet must be in the header of your index.html
 ```
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 ```
 step 2 - use this material ui icon component: 
 ```
