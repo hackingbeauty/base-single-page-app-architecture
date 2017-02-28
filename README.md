@@ -1,5 +1,6 @@
 ## Development
 ```
+$ npm i
 $ npm start
 ```
 ## Clean
