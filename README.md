@@ -31,9 +31,12 @@ $ npm run lint
 
 ## Material UI Icons:
 
-step 1 - this font stylesheet must be in the header of your index.html:
-	  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
-
-step 2 - use this material ui icon component: <FontIcon className="material-icons">home</FontIcon>
-
+step 1 - this font stylesheet must be in the header of your index.html
+```
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
+```
+step 2 - use this material ui icon component: 
+```
+<FontIcon className="material-icons">home</FontIcon>
+```
 step 3 - go here and insert the right text for the appropriate icon: https://design.google.com/icons/
